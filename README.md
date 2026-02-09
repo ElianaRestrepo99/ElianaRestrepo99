@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hola, soy Eliana Restrepo
 
-<!--
-**ElianaRestrepo99/ElianaRestrepo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora web en formación constante
+🌎 Colombia  
+🚀 Apasionada por crear experiencias digitales modernas, accesibles y funcionales
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy una desarrolladora enfocada en el desarrollo web y la construcción de proyectos prácticos que combinan diseño, funcionalidad y experiencia de usuario.  
+Actualmente trabajo en el desarrollo de aplicaciones web, tiendas virtuales y sistemas dinámicos para mi portafolio profesional.
+
+Me interesa especialmente:
+
+- Desarrollo Frontend y Backend
+- Experiencia de usuario (UX/UI)
+- Integración de funcionalidades inteligentes (chatbots / IA)
+- Proyectos reales que resuelvan necesidades prácticas
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
+- Git & GitHub
+
+(Siempre aprendiendo nuevas tecnologías 🚀)
+---
+*(Aquí podras ver mis proyectos…)*
+
+## 📫 Conecta conmigo
+
+- LinkedIn: www.linkedin.com/in/andrea-restrepo-5a1788201
+- GitHub: https://github.com/ElianaRestrepo99
+
+---
+
+⭐ Gracias por visitar mi perfil
+
