@@ -1,45 +1,65 @@
-# 👋 Hola, soy Eliana Restrepo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Eliana%20Restrepo&fontSize=40&fontColor=ffffff"/>
+</p>
 
-💻 Desarrolladora web en formación constante
-🌎 Colombia  
-🚀 Apasionada por crear experiencias digitales modernas, accesibles y funcionales
+<h2 align="center">💻 Desarrolladora Web</h2>
 
----
+<p align="center">
+Apasionada por crear experiencias digitales modernas, funcionales y elegantes ✨
+</p>
 
-## 🧠 Sobre mí
+# 🌸 Sobre mí
 
-Soy una desarrolladora enfocada en el desarrollo web y la construcción de proyectos prácticos que combinan diseño, funcionalidad y experiencia de usuario.  
-Actualmente trabajo en el desarrollo de aplicaciones web, tiendas virtuales y sistemas dinámicos para mi portafolio profesional.
-
-Me interesa especialmente:
-
-- Desarrollo Frontend y Backend
-- Experiencia de usuario (UX/UI)
-- Integración de funcionalidades inteligentes (chatbots / IA)
-- Proyectos reales que resuelvan necesidades prácticas
+- 🌎 Colombia  
+- 💻 Enfocada en desarrollo web frontend y backend  
+- 🚀 Construyendo proyectos reales para mi portafolio  
+- 🤖 Interesada en IA y chatbots  
+- 🎨 Me gusta combinar diseño + funcionalidad  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+#### 🛠️ Tecnologías
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Bootstrap
-- Git & GitHub
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github"/>
+
+</p>
 
 (Siempre aprendiendo nuevas tecnologías 🚀)
 ---
-*(Aquí podras ver mis proyectos…)*
 
-## 📫 Conecta conmigo
+## 📊 Estadísticas GitHub
 
-- LinkedIn: www.linkedin.com/in/andrea-restrepo-5a1788201
-- GitHub: https://github.com/ElianaRestrepo99
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElianaRestrepo99&show_icons=true&theme=rose_pine"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElianaRestrepo99&theme=rose-pine"/>
+</p>
+
+## 🌸 Conecta conmigo
+
+<p align="center">
+<a href=" www.linkedin.com/in/andrea-restrepo-5a1788201" target="_blank>
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ElianaRestrepo99" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+## 💖 Frase personal
+
+> “Construyendo mi futuro una línea de código a la vez”
 
 ---
+
+<p align="center">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
+</p>
+
 
 ⭐ Gracias por visitar mi perfil
 
