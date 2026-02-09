@@ -28,7 +28,6 @@ Apasionada por crear experiencias digitales modernas, funcionales y elegantes �
 
 (Siempre aprendiendo nuevas tecnologías 🚀)
 ---
-
 ## 📊 Estadísticas GitHub
 
 <p align="center">
@@ -40,6 +39,7 @@ Apasionada por crear experiencias digitales modernas, funcionales y elegantes �
 </p>
 
 ## 🌸 Conecta conmigo
+
 
 <p align="center">
 <a href=" www.linkedin.com/in/andrea-restrepo-5a1788201" target="_blank">
